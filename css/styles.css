@@ -5,8 +5,11 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+ background-image: url(https://i.pinimg.com/564x/88/a4/33/88a433a28f565585de91d68efc06ccca.jpg)
+}
+
+{
+
 }
 
 /* Changing the background colour for the header */
