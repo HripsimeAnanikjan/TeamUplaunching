@@ -4,11 +4,7 @@
 
 /* Changing the main font and background colour */
 
-body {
- background-image: url(https://i.pinimg.com/564x/88/a4/33/88a433a28f565585de91d68efc06ccca.jpg);
- background-size:cover;
- background-position: center;
-}
+
 
 /* Changing the background colour for the header */
 
@@ -19,7 +15,7 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #4d3699
 }
 
 /* Effect on social media buttons */
@@ -42,4 +38,48 @@ footer a:hover {
 		.02em .02em .02em white,
 		0 0 .2em white,
 		0 0 .5em white;
+}
+
+.mycolumnstyle{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.backgroundwebsite {
+    background-color: #ECE4DB;	
+}
+.carouselcaptionmine {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.carouselblock {
+    width: 800px;
+    height: 199px;
+}
+
+.buttoncustom {
+    background-color: #A82447;
+    color: #FFFFFF;
+}
+
+.newbox {
+    background-color: #5135A0;
+    margin-top: 31px;
+    margin-right: 31px;
+    margin-bottom: 31px;
+    margin-left: 31px;
+    padding-top: 220px;
+    padding-right: 220px;
+    padding-bottom: 220px;
+    padding-left: 220px;
+    width: 1200px;
+    height: 100px;
 }
